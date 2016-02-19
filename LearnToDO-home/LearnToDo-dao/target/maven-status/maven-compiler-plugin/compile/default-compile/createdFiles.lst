@@ -1,0 +1,4 @@
+com/learntodo/util/HibernateUtil.class
+com/learntodo/util/WebAppConfig.class
+com/learntodo/login/LoginDao.class
+com/learntodo/login/impl/LoginDaoImpl.class
